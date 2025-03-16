@@ -1,11 +1,11 @@
-<h1 align="left">hi 👋, i'm sid!</h1>
-<h3 align="center">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
+<h1 align="left">Hii 👋, I'm Sid!</h1>
+<h3 align="left">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
 
 -  🧠 I’m currently working on **LearnTrack,** a personalized learning app using Flutter and Firebase!**
 
 - 🌱 I’m currently building up my skills in **React.js.**
 
-- 📫 How to reach me **padmanabhandd@gmail.com**
+- 📫 How to reach me **sp2492@scarletmail.rutgers.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
