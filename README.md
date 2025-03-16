@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sid!</h1>
 <h3 align="center">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
 
--  🧠 I’m currently working on **LearnTrack, a personalized learning app using Flutter and Firebase!**
+-  🧠 I’m currently working on **LearnTrack,** a personalized learning app using Flutter and Firebase!**
 
 - 🌱 I’m currently building up my skills in **React.js.**
 
