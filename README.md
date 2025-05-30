@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋, I'm Sid!</h1>
+<h1 align="left">👋</h1>
 <h3 align="left">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
 
 -  🧠 I’m currently working on **LearnTrack,** a personalized learning app using Flutter and Firebase!**
