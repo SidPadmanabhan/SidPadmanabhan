@@ -1,11 +1,11 @@
 <h1 align="left">👋 Hi, I'm Sid</h1>
 <h3 align="left">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
 
--  🧠 I’m currently working on **LearnTrack,** a personalized learning app using Flutter and Firebase!**
+-  🧠 I’m currently working on **Satori,** a personalized journaling app using React and Supabase, with Mistral AI!**
 
 - 🌱 I’m currently building up my skills in **React.js.**
 
-- 📫 How to reach me **sp2492@scarletmail.rutgers.edu**
+- 📫 How to reach me **sp2492@rutgers.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
