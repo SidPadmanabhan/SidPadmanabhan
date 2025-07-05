@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Sid</h1>
-<h3 align="left">A passionate computer science student, hoping to learn as much as I can through real-world projects!</h3>
+<h3 align="left">A computer science student, hoping to learn as much as I can through real-world projects!</h3>
 
 -  🧠 I’m currently working on **Satori,** a personalized journaling app using React and Supabase, with Mistral AI!**
 
