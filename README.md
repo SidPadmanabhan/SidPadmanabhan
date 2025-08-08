@@ -1,6 +1,6 @@
 <h1 align="center">👋 hey, i'm sid</h1>
 
-<p align="center">🎓 [student] • 💻 [developers] • 🎵 [music enthusiast] • 🐕 [dog lover]</p>
+<p align="center">🎓 student • 💻 developer • 🎵 music enthusiast • 🐕 dog lover</p>
 
 ---
 
