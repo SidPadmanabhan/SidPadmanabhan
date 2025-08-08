@@ -1,4 +1,4 @@
-<h1 align="center">👋 hey, i'm sid!</h1>
+<h1 align="center">👋 hey, i'm sid</h1>
 
 <p align="center">🎓 [your role/title] • 🥋 [hobby/interest 1] • 🎵 [hobby/interest 2] • ⚡ [current project/role]</p>
 
