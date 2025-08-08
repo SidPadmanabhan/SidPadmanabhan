@@ -8,9 +8,6 @@
 
 hi! i'm sid, a cs student at rutgers university. 
 
-### 🏠 current role:
-[your current position/project description - e.g., "full-stack developer working on innovative web applications" or "student focusing on machine learning and data science"]
-
 ### 🎯 current learning goals:
 - llms 
 - building projects w/ mern stack 
@@ -19,7 +16,7 @@ hi! i'm sid, a cs student at rutgers university.
 ### 📚 hobbies & interests:
 - gym 🏋🏽‍♂️
 - reading 📖
-- listening to music 🎵
+- listening to music 🎧
 
 ### 📧 contact me:
 sidpadmanabhan03@gmail.com
