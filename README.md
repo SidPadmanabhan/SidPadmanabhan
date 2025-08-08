@@ -12,10 +12,6 @@ hi! i'm sid, a student at rutgers university studying computer science and busin
 - electron.js 
 - building projects w/ mern stack 
 - edge computing frameworks
-
-### 📧 contact me:
-sidpadmanabhan03@gmail.com
-
 ---
 
 ## 💬 connect with me
