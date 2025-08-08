@@ -9,7 +9,7 @@
 hi! i'm sid, a student at rutgers university studying computer science and business administration
 
 ### 🎯 current learning goals:
-- llms 
+- electron.js 
 - building projects w/ mern stack 
 - edge computing frameworks
 
