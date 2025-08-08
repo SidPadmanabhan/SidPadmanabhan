@@ -1,22 +1,17 @@
 <h1 align="center">👋 hey, i'm sid</h1>
 
-<p align="center">🎓 [your role/title] • 🥋 [hobby/interest 1] • 🎵 [hobby/interest 2] • ⚡ [current project/role]</p>
+<p align="center">🎓 [student] • 💻 [developers] • 🎵 [music enthusiast] • 🐕 [dog lover]</p>
 
 ---
 
 ## 🧠 about me
 
-hi! i'm sid, a cs student at rutgers university. 
+hi! i'm sid, a student at rutgers university studying computer science and business administration
 
 ### 🎯 current learning goals:
 - llms 
 - building projects w/ mern stack 
 - edge computing frameworks
-
-### 📚 hobbies & interests:
-- gym 🏋🏽‍♂️
-- reading 📖
-- listening to music 🎧
 
 ### 📧 contact me:
 sidpadmanabhan03@gmail.com
