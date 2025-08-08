@@ -6,20 +6,20 @@
 
 ## 🧠 About Me
 
-Hello! I'm [Your Name], a [Your Description/Field] at [Institution/Company].
+Hi! I'm Sid, a CS student at Rutgers University. 
 
 ### 🏠 Current Role:
 [Your current position/project description - e.g., "Full-stack developer working on innovative web applications" or "Student focusing on machine learning and data science"]
 
 ### 🎯 Current Learning Goals:
-- [Technology/Skill 1] 📚
-- [Technology/Skill 2] 🔧
-- [Technology/Skill 3] 🚀
+- LLMs 
+- building projects w/ MERN stack 
+- edge computing frameworks
 
 ### 📚 Hobbies & Interests:
-- [Interest 1] 🎯
-- [Interest 2] 📖
-- [Interest 3] 🎵
+- gym 🏋🏽‍♂️
+- reading 📖
+- listening to music 🎵
 
 ### 📧 Contact Me:
 sidpadmanabhan03@gmail.com
