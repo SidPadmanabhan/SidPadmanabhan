@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 about me
+## 👨🏾‍💻 about me
 
 hi! i'm sid, a student at rutgers university studying computer science and business administration
 
